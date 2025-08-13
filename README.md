@@ -1,7 +1,7 @@
 # TIA Hardware OCR Extractor
 
 Use OCR to extract device data from **TIA Portal** hardware configuration screenshots and prepare it for database storage.  
-> **Internal use only. Not intended for public distribution.** 
+> **Built for internal needs and shared publicly as a personal project. Not an official release.** 
 ---
 
 ## Why
