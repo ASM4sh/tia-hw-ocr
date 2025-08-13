@@ -1,2 +1,2 @@
 # tia-hw-ocr
-Trying to do good
+Extract TIA Portal hardware configuration from screenshots using OCR and store it in a database
